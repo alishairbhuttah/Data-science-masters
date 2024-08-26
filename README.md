@@ -1,2 +1,2 @@
 # Data-science-masters
-this is lecture number 2
+This is lecture number 2
